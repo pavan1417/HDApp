@@ -1,3 +1,6 @@
+
+!pip install flask
+!pip install pickle
 # Importing essential libraries
 from flask import Flask, render_template, request
 import pickle
