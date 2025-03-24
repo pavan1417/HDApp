@@ -1,5 +1,5 @@
 pip install -r requirements.txt 
-pip install flask
+$ pip install Flask
 !pip install pickle
 # Importing essential libraries
 from flask import Flask, render_template, request
