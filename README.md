@@ -55,20 +55,7 @@ git clone https://github.com/asthasharma98/Heart-Disease-Prediction-Deployment.g
 python app.py
 ```
 
-### Deployement on Heroku
 
-Install Heroku CLI as this makes it easy to create and manage your Heroku apps directly from the terminal. 
-You can download it from [here](https://devcenter.heroku.com/articles/heroku-cli).
-
-next step would be to follow the instruction given on [Heroku Documentation](https://devcenter.heroku.com/articles/getting-started-with-python) to deploy a web app.
-
-### Technologies used 
-
-[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)  
-
-[![Heroku](https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_heroku.png?raw=true)](https://www.heroku.com/)
-
-[![Flask](https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_flask.png?raw=true)](http://flask.pocoo.org/)  
 
 
 ### Future work 
@@ -78,7 +65,7 @@ next step would be to follow the instruction given on [Heroku Documentation](htt
 
 ### credit 
 
-- A big thanks to [Anuj vyas](https://github.com/anujvyas/Diabetes-Prediction-Deployment) as I got the desinging idea of web app from his projects on github.
+- A big thanks to [pavan](https://github.com/pavan1417) as I got the desinging idea of web app from his projects on github.
 
 **Some Useful Resources**
 
