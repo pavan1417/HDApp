@@ -1,7 +1,8 @@
 
 
-$ pip install Flask
-!pip install pickle
+
+import flask
+print(flask.__version__)
 # Importing essential libraries
 from flask import Flask, render_template, request
 import pickle
